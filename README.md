@@ -1,8 +1,9 @@
 # Generative AI Image Generator
 
-Simple front end that uses dalle-3 and a valid openAI key to generate images based on a user prompt.
+Simple front end that uses [dalle-3](https://openai.com/index/dall-e-3/) and a valid openAI key to generate images based on a user prompt.
 
-## Use
+
+## User Guide
 
 1) Update the [app.js](app.js) with your valid openAI token.
 
